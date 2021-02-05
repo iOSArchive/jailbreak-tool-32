@@ -7,3 +7,5 @@ Some tools might only support a version arch in a version series. Example: myjb2
                                                                            myjb25 only support iOS 10 32bit.
                                                                            
 I'll not explaining what iOS version and arch that a tools is supported in details because this is a archive repository. You have to ask someone and get your iPA :)
+
+Feels free to adding more tools and even write explaining for me :)
